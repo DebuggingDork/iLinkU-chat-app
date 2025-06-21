@@ -1,14 +1,5 @@
 # 🚀 Full Stack Realtime Chat Application
 
-<div align="center">
-
-![Chat Application Banner](https://via.placeholder.com/800x200/6366f1/ffffff?text=Realtime+Chat+App)
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-demo-link.com)
-[![Video Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/ntKkVrQqBYY)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
-
-</div>
 
 ## 📋 Table of Contents
 
