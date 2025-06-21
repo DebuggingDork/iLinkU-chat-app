@@ -82,7 +82,7 @@
 ![Home Page](/frontend/public/homepage.png)
 
 ### 👤 Profile Settings
-![Profile Settings](/frontend/public/profile.png)
+![Profile Settings](/frontend/public/profilepage.png)
 
 </div>
 
