@@ -310,4 +310,5 @@ If you found this project helpful, please give it a ⭐️!
 
 [🐛 Report Bug](https://github.com/DebuggingDork/chat-application/issues) • [✨ Request Feature](https://github.com/DebuggingDork/chat-application/issues) • [💬 Ask Question](https://github.com/DebuggingDork/chat-application/discussions)
 
-</div>
+</div>#   d e m o  
+ 
